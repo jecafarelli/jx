@@ -8,5 +8,5 @@ icon: https://jenkins-x.github.io/jenkins-x-website/img/profile.png
 sources:
 - https://github.com/jenkins-x/jx
 maintainers:
-- name: Jenkins X Team
+name: jx
   email: jenkins-x@googlegroups.com
